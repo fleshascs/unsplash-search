@@ -1,4 +1,4 @@
-#unsplash image search client
+# unsplash image search client
 
 In the project directory, you can run:
 ### `npm start`
