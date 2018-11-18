@@ -3,6 +3,7 @@
 made with react.js
 
 ![Screenshot](desktop.png)
+
 ![Screenshot](mobile.png)
 
 In the project directory, you can run:
